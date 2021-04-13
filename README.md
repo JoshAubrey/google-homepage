@@ -4,7 +4,7 @@ A mockup of Google's homepage
 
 > ## From The Odin Project's [curriculum](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css)
 
-> - [Live Demo](https://joshaubrey.github.io/google-homepage/) :shipit:
+> ## [Live Demo](https://joshaubrey.github.io/google-homepage/) :shipit:
 
 ## Project Requirements
 
