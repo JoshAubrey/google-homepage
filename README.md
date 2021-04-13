@@ -21,6 +21,6 @@ cd google-homepage
 
 ## Built With
 
-*html 
-*css
-*google doodle
+* html 
+* css
+* google doodle
