@@ -17,6 +17,7 @@ Make it look like google.com, not actually function like it and it doesn’t hav
 ```bash
 git clone https://github.com/JoshAubrey/google-homepage.git
 cd google-homepage
+open index.html with browser of choice
 ```
 
 ## Built With
